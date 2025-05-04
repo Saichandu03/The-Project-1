@@ -1,4 +1,4 @@
-# 🕒 Late Comers – Real-Time Student, Staff & Visitor Management System
+# 📘 Late Comers – Real-Time Student, Staff & Visitor Management System
 
 **Late Comers** is a professional real-time tracking and management system tailored for educational institutions. It efficiently monitors and manages late arrivals of students and staff, while also handling live visitor registrations with secure barcode passes. The system features automated SMS alerts to parents, detailed analytics, suspension tracking, bulk uploads, and daily email reports for administrators. Through centralized dashboards and intelligent automation, Late Comers enhances campus discipline, transparency, and security.
 
